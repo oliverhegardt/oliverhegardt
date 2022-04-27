@@ -2,7 +2,7 @@
 
 I'm currently studying the Frontend Developer program at Hyper Island in Stockholm.
 
-- 🏊‍♂️ Swimmer, I have swum and competed in elite-level swimming.
+- 🏊‍♂️ Swimmer, I swim and have competed in elite-level swimming.
 - 💻 I enjoy Math, IT and have always loved to use computers.
 - 🧙‍♂️ A wizard at troubleshooting code and hardware.
 - 🏎️ My interests are cars, F1, swimming, watches, electronics and going for a fika!

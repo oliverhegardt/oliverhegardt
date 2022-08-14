@@ -1,6 +1,6 @@
 # Hello there, I'm Oliver Hegardt 👋
 
-I'm currently studying the Frontend Developer program at Hyper Island in Stockholm.
+Frontend Developer at Hyper Island Stockholm, Graduating March 2023. I am looking for a frontend/backend position from April 2023.
 
 - 🏊‍♂️ Swimmer, I swim and have competed in elite-level swimming.
 - 💻 I enjoy Math, IT and have always loved to use computers.
